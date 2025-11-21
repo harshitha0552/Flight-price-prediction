@@ -1,5 +1,3 @@
-Here is your **entire README.md rewritten exactly in CODE FORMAT**, ready to paste directly into GitHub.
-
 ````markdown
 # Flight Price Prediction using Machine Learning
 
