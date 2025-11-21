@@ -1,4 +1,3 @@
-````markdown
 # Flight Price Prediction using Machine Learning
 
 This project predicts **flight ticket prices** for Indian domestic airlines using **machine learning**.  
@@ -191,4 +190,3 @@ If you need:
 ✔ GitHub formatting  
 
 Just tell me!
-````
