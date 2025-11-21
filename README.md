@@ -57,7 +57,6 @@ Analyzed how each feature affects price using:
 Models evaluated:
  
 - Decision Tree Regressor  
-- Random Forest Regressor
 - AdaBoost Regressor
 - GradientBoosting Regressor
 - **XGBoost Regressor (Final Model)**  
